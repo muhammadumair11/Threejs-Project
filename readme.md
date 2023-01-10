@@ -1,3 +1,6 @@
+# Demo
+https://earth-three-js.netlify.app/
+
 # Three.js Starter
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
 
